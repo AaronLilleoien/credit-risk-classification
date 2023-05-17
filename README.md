@@ -8,7 +8,7 @@ A database of 77,536 records were used for the model with 75% allocated to train
 ## Results
 
 Machine Learning Model Results:
-  *Healthy Loan precision 1.00
+*Healthy Loan precision 1.00
   *Healthy Loan recall 0.99
   *High-risk loan precision 0.86
   *High-risk loan recall 0.91
